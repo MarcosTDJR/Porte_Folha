@@ -227,10 +227,6 @@ code:hover{
 
 /* Projeto */
 
-#fundo{
-    background: repeating-radial-gradient(#e0e0e0, #fff)
-}
-
 #uni img{
     opacity: 0%;
     position: absolute;
