@@ -123,9 +123,9 @@ code:hover{
 
 /* SOBRE MIM */
 #eu{
-    margin: 50px 0;
+    margin: auto;
     text-align: center;
-    width: 60%;
+    width: 90%;
 }
 
 #eu h1{
@@ -133,7 +133,7 @@ code:hover{
 }
 
 #pulsa{
-    font-size: 25px;
+    font-size: 27px;
     margin: auto;
     animation: pulsan 1s infinite;
 }
@@ -146,13 +146,13 @@ code:hover{
 
 @keyframes pulsan{
     0%{
-        font-size: 25px;
+        font-size: 27px;
     }
     50%{
-        font-size: 26px;
+        font-size: 27.5px;
     }
     100%{
-        font-size: 25px;
+        font-size: 27px;
     }
 }
 
