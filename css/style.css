@@ -135,6 +135,7 @@ code:hover{
 #pulsa{
     font-size: 27px;
     margin: auto;
+    text-wrap: nowrap;
     animation: pulsan 1s infinite;
 }
 
