@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: 0;
     font-family: "Pixelify Sans", Geneva, Tahoma, sans-serif;
-    text-align: justify;
 }
 
 html { filter: url("#pixelate") }
@@ -133,7 +132,7 @@ code:hover{
 }
 
 #pulsa{
-    font-size: 25px;
+    font-size: 20px;
     margin: auto;
     animation: pulsan 1s infinite;
 }
@@ -200,6 +199,7 @@ code:hover{
     width: 100%;
     height: 190%;
     background-color: white;
+    z-index: -1;
     animation: mostra 100000000000s infinite 5s;
 }
 
