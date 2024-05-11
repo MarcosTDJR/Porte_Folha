@@ -316,7 +316,7 @@ code:hover{
     width: 150px;
     height: 150px;
     top: 220%;
-    animation: anda 10s 1 40s;
+    animation: anda 10s infinite;
 }
 
 @keyframes anda{
