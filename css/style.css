@@ -227,6 +227,10 @@ code:hover{
 
 /* Projeto */
 
+#fundo{
+    zoom: 150%;
+}
+
 #uni img{
     opacity: 0%;
     position: absolute;
