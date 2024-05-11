@@ -221,6 +221,7 @@ code:hover{
 }
 
 #btn-div2{
+    position: absolute;
     text-align: right;
 }
 
