@@ -132,7 +132,7 @@ code:hover{
 }
 
 #pulsa{
-    font-size: 30px;
+    font-size: 25px;
     margin: auto;
     animation: pulsan 1s infinite;
 }
@@ -148,7 +148,7 @@ code:hover{
         font-size: 30px;
     }
     50%{
-        font-size: 32px;
+        font-size: 31px;
     }
     100%{
         font-size: 30px;
@@ -197,7 +197,7 @@ code:hover{
     color: white;
     top: 20%;
     width: 100%;
-    height: 180%;
+    height: 190%;
     background-color: white;
     animation: mostra 100000000000s infinite 5s;
 }
