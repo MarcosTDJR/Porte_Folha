@@ -223,6 +223,7 @@ code:hover{
 #btn-div2{
     position: absolute;
     text-align: right;
+    right: 20%;
 }
 
 #btn-div2 a{
